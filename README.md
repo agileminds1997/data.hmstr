@@ -1,2 +1,2 @@
 # data.hmstr
-The womderfully trained Data Hamster
+The wonderfully trained Data Hamster
